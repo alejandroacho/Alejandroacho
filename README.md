@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on many projects, but special in one that is focused on female safety, you can check it out <a href="http://notalone.me"> here!</a>
 - 🌱 I’m currently learning mobile development with Ionic and ReactNative.
 - 💬 Ask me about everything you want!
-- 📫 You can reach me at <a href="http://alejandroacho.com"> my personal page </a> or writing me <a href="mailto:alejandroacho@hotmail.com">to my e-mail </a>.
+- 📫 You can reach me at <a href="http://alejandroacho.com"> my personal page </a> or writing me <a href="mailto:alejandroacho@hotmail.com">to my e-mail</a>.
