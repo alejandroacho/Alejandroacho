@@ -6,3 +6,8 @@
 - 📝 If you want yo checkout my resume, you can go to my <a href="https://www.linkedin.com/in/alejandro-acho/">LinkedIn</a>.
 - 📫 You can reach me at <a href="http://alejandroacho.com"> my personal page </a> or writing me <a href="mailto:alejandroacho@hotmail.com">to my e-mail</a>.
 - 💬 Ask me about everything you want!
+
+You can watch my stats right down below:
+
+
+![Alejandroacho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejandroacho&theme=gruvbox)
