@@ -45,6 +45,6 @@
 [<img align="left" alt="Alejandro Acho | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://alejandroacho.com
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/alejoacho
+[instagram]: https://instagram.com/alejandroacho
+[linkedin]: https://linkedin.com/in/alejandro-acho
