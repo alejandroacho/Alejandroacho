@@ -6,6 +6,7 @@
 - 📝 If you want yo checkout my resume, you can go to my <a href="https://www.linkedin.com/in/alejandro-acho/">LinkedIn</a>.
 - 📫 You can reach me at <a href="http://alejandroacho.com"> my personal page </a> or writing me <a href="mailto:alejandroacho@hotmail.com">to my e-mail</a>.
 - 💬 Ask me about everything you want!
+
 <br />
 
 ### Languages and Tools:
@@ -30,12 +31,11 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
 ### You can watch my stats right down below:
 
 ![Alejandroacho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejandroacho)
-
-<br />
 
 ### Connect with me:
 
