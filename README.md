@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm Alejandro, a fullstack software developer. I consider that I'm specialized in back end, but I love to create projects with a good design. One of my passions is, without a doubt, developing software, because it is a perfect tool to help others and build new ideas.
+### I'm Alejandro, a fullstack software developer. I consider myself as highly motivated developer and I love to write good code and making a good design for it. One of my passions is, without a doubt, developing software, because it is a perfect tool to help others and build new ideas.
 
 - 🔭 I’m currently working on some projects, but special in one that is focused on female safety, you can check it out <a href="http://notalone.me"> here!</a>
 - 🌱 I’m currently learning mobile development with Ionic and ReactNative.
