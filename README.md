@@ -21,18 +21,31 @@
 <br>
 
 ## 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Vue.JS](https://img.shields.io/badge/-Vue.JS-05122A?style=flat&logo=vue.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<div align="center">
+
+![HTML](https://img.shields.io/badge/-HTML-40444D?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-40444D?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-40444D?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-40444D?style=flat&logo=python)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-40444D?style=flat&logo=jest)&nbsp;
+![Pytest](https://img.shields.io/badge/-Pytest-40444D?style=flat&logo=pytest)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-40444D?style=flat&logo=mysql)&nbsp;
+![Django](https://img.shields.io/badge/-Django-40444D?style=flat&logo=django)&nbsp;
+![Vue.JS](https://img.shields.io/badge/-Vue.JS-40444D?style=flat&logo=vue.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-40444D?style=flat&logo=bootstrap)&nbsp;
+![SASS](https://img.shields.io/badge/-Sass-40444D?style=flat&logo=sass)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-40444D?style=flat&logo=react)&nbsp;
+![Webpack](https://img.shields.io/badge/-Webpack-40444D?style=flat&logo=webpack)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-40444D?style=flat&logo=docker)&nbsp;
+![Celery](https://img.shields.io/badge/-Celery-40444D?style=flat&logo=celery)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-40444D?style=flat&logo=rabbitmq)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-40444D?style=flat&logo=redis)&nbsp;
+![Git](https://img.shields.io/badge/-Git-40444D?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-40444D?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-40444D?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+</div>
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
