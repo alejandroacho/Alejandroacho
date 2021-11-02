@@ -1,50 +1,59 @@
-## Hi there 👋
-### I'm Alejandro, a fullstack software developer. I consider myself as highly motivated developer and I love to write good code and making a good design for it. One of my passions is, without a doubt, developing software, because it is a perfect tool to help others and build new ideas.
+<h1 align="left">Hello world <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Alejandro!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alejandroacho&color=blueviolet" alt="Profile views" /> </p>
+<img align="right" width="300em" height="300em" src="https://github.com/Alejandroacho/Alejandroacho/blob/master/Gif.gif?raw=true"/>
 
-- 🔭 I’m currently working on some projects, but special in one that is focused on female safety, you can check it out <a href="http://notalone.me"> here!</a>
-- 🌱 I’m currently learning mobile development with Ionic and ReactNative.
-- 📝 If you want yo checkout my resume, you can go to my <a href="https://www.linkedin.com/in/alejandro-acho/">LinkedIn</a>.
-- 📫 You can reach me at <a href="http://alejandroacho.com"> my personal page </a> or writing me <a href="mailto:alejandroacho@hotmail.com">to my e-mail</a>.
-- 💬 Ask me about everything you want!
+### I'm a fullstack software developer. I consider myself as highly motivated developer and I love to write good code and making a good design for it. One of my passions is, without a doubt, developing software, because it is a perfect tool to help others and build new ideas.
 
-<br />
+- 🔭 &nbsp;I’m currently working on NotAlone, you can check it out <a href="http://notalone.me"> here!</a>
 
-### Languages and tools I have worked with:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+- 🌱 &nbsp;I’m currently learning mobile development with Ionic and ReactNative.
 
-<br />
-<br />
 
-### You can watch my stats right down below:
+- 📝 &nbsp;If you want yo checkout my resume, you can go to my <a href="https://www.linkedin.com/in/alejandro-acho/">LinkedIn</a>.
 
-![Alejandroacho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejandroacho)
 
-### Connect with me:
+- 📫 &nbsp;You can reach me at <a href="http://alejandroacho.com"> my personal page </a> or writing me <a href="mailto:alejandroacho@hotmail.com">to my e-mail</a>.
 
-[<img align="left" alt="alejandroacho.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Alejandro Acho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Alejandro Acho | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Alejandro Acho | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[website]: https://alejandroacho.com
-[twitter]: https://twitter.com/alejoacho
-[instagram]: https://instagram.com/alejandroacho
-[linkedin]: https://linkedin.com/in/alejandro-acho
+- 💬 &nbsp;Ask me about everything you want!
+
+<br>
+
+## 🛠 &nbsp;Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Vue.JS](https://img.shields.io/badge/-Vue.JS-05122A?style=flat&logo=vue.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+## ⚙️ &nbsp;GitHub Analytics
+<br>
+
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Alejandroacho&show_icons=true&theme=nightowl" alt="Alejandro Acho's stats"/>
+</p>
+
+##
+
+<p align="center" style="background:blue">
+  <a href="https://instagram.com/alejandroacho" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://linkedin.com/in/alejandro-acho" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://twitter.com/alejoacho" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>
+</a>
+  <a href="http://alejandroacho.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Web%20Page-05122A?style=flat&logo=googlechrome" alt="web page"/>
+</a>
+</p>
