@@ -1,5 +1,4 @@
 <h1 align="left">Hello world <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Alejandro!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alejandroacho&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/Alejandroacho/Alejandroacho/blob/master/Gif.gif?raw=true"/>
 
 ### I'm a fullstack software developer. I consider myself as highly motivated developer and I love to write good code and making a good design for it. One of my passions is, without a doubt, developing software, because it is a perfect tool to help others and build new ideas.
@@ -53,6 +52,9 @@
 <p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Alejandroacho&show_icons=true&theme=nightowl" alt="Alejandro Acho's stats"/>
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Alejandroacho&color=blueviolet" alt="Profile views" /> </p>
+
 
 ##
 
