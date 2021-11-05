@@ -93,7 +93,10 @@
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Alejandroacho&show_icons=true&theme=nightowl" alt="Alejandro Acho's stats"/>
 </p>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandroacho&layout=compact&theme=nightowl)](https://github.com/Alejandroacho/)!-->
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandroacho&layout=compact&theme=nightowl)](https://github.com/Alejandroacho/)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alejandroacho)](https://github.com/Alejandroacho/)
+!-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Alejandroacho&color=blueviolet" alt="Profile views" /> </p>
 
