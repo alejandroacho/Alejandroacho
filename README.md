@@ -1,4 +1,4 @@
-<h1 align="left">Hello world <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Alejandro!</h1>
+<h1 align="left">Hello world <img src="https://github.com/Alejandroacho/Alejandroacho/blob/master/hi.gif" width="40px"> I'm Alejandro!</h1>
 <img align="right" width="300em" height="300em" src="https://github.com/Alejandroacho/Alejandroacho/blob/master/Gif.gif?raw=true"/>
 
 ### I'm a fullstack software developer. I consider myself as highly motivated developer and I love to write good code and making a good design for it. One of my passions is, without a doubt, developing software, because it is a perfect tool to help others and build new ideas.
@@ -9,7 +9,7 @@
 - 🌱 &nbsp;I’m currently learning mobile development with ReactNative.
 
 
-- 📝 &nbsp;If you want yo checkout my resume, you can go to my <a href="https://www.linkedin.com/in/alejandro-acho/">LinkedIn</a>.
+- 📝 &nbsp;If you want to checkout my resume, you can go to my <a href="https://www.linkedin.com/in/alejandro-acho/">LinkedIn</a>.
 
 
 - 📫 &nbsp;You can reach me at <a href="http://alejandroacho.com"> my personal page </a> or writing me <a href="mailto:alejandroacho@hotmail.com">to my e-mail</a>.
