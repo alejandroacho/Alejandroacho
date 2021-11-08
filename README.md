@@ -104,7 +104,7 @@
 ##
 
 <p align="center" style="background:blue">
-  <a href="https://instagram.com/alejandroacho" target="_blank">
+  <a href="https://www.instagram.com/alejandroacho/" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
   <a href="https://linkedin.com/in/alejandro-acho" target="_blank">
