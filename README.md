@@ -6,7 +6,7 @@
 - 🔭 &nbsp;I’m currently working on NotAlone, you can check it out <a href="http://notalone.me"> here!</a>
 
 
-- 🌱 &nbsp;I’m currently learning mobile development with ReactNative.
+- 🌱 &nbsp;I’m currently learning mobile development with <a href="https://reactnative.dev/">ReactNative</a>.
 
 
 - 📝 &nbsp;If you want to checkout my resume, you can go to my <a href="https://www.linkedin.com/in/alejandro-acho/">LinkedIn</a>.
