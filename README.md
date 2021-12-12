@@ -104,6 +104,10 @@
 ##
 
 <p align="center" style="background:blue">
+  </a>
+    <a href="http://alejandroacho.com" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-Web%20Page-05122A?style=flat&logo=googlechrome" alt="web page"/>
+  </a>
   <a href="https://www.instagram.com/alejandroacho/" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
@@ -112,8 +116,4 @@
   </a>
   <a href="https://twitter.com/alejoacho" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>
-  </a>
-    <a href="http://alejandroacho.com" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-Web%20Page-05122A?style=flat&logo=googlechrome" alt="web page"/>
-  </a>
 </p>
