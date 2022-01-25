@@ -45,6 +45,9 @@
     <a href="https://docs.pytest.org/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Pytest-40444D?style=flat&logo=pytest" alt="Pytest"/>
     </a>
+    <a href="https://docs.cypress.io/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-Cypress-40444D?style=flat&logo=cypress" alt="Cypress"/>
+    </a>
     <a href="https://getbootstrap.com/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Bootstrap-40444D?style=flat&logo=bootstrap" alt="Bootstrap"/>
     </a>
