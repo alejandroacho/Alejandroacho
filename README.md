@@ -12,7 +12,7 @@
 - 📝 &nbsp;If you want to checkout my resume, you can go to my <a href="https://www.linkedin.com/in/alejandro-acho/">LinkedIn</a>.
 
 
-- 📫 &nbsp;You can reach me at <a href="http://alejandroacho.com"> my personal page </a> or writing me <a href="mailto:alejandroacho@hotmail.com">to my e-mail</a>.
+- 📫 &nbsp;You can reach me at <a href="http://alejandroacho.com"> my personal page </a> or <a href="mailto:alejandroacho@hotmail.com">writing me</a>.
 
 
 - 💬 &nbsp;Ask me about everything you want!
