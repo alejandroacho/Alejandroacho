@@ -1,5 +1,5 @@
 <h1 align="left">Hello world <img src="https://github.com/Alejandroacho/Alejandroacho/blob/master/hi-40px.gif"> I'm Alejandro!</h1>
-<img align="right" width="320em" height="320em" src="https://github.com/Alejandroacho/Alejandroacho/blob/master/Gif.gif?raw=true"/>
+<img align="right" width="340em" height="340em" src="https://github.com/Alejandroacho/Alejandroacho/blob/master/Gif.gif?raw=true"/>
 
 ### I'm a fullstack software developer. I consider myself as a highly motivated developer and I love to write good code and making a good design for it. One of my passions is, without a doubt, developing software, because it is a perfect tool to help others and build new ideas.
 
