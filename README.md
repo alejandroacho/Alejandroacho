@@ -115,7 +115,7 @@
   <a href="https://www.instagram.com/alejandroacho/" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
-  <a href="https://linkedin.com/in/alejandro-acho" target="_blank">
+  <a href="https://linkedin.com/in/alejandroacho" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://twitter.com/alejoacho" target="_blank">
