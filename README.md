@@ -95,12 +95,11 @@
 <p align="center">
   <img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alejandroacho&show_icons=true&theme=nightowl" alt="Alejandro Acho's stats"/>
 </p>
-
 <!--
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alejandroacho)](https://github.com/Alejandroacho/)
 !-->
 <p align="center"> 
-  <img src=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alejandroacho&layout=compact&theme=nightowl&langs_count=7&hide=html,php,css,blade alt="Alejandro Acho's stats"/>
+  <img src=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alejandroacho&theme=nightowl&langs_count=7&hide=html,php,css,blade alt="Alejandro Acho's stats"/>
  </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Alejandroacho&color=blueviolet" alt="Profile views" /> </p>
 
