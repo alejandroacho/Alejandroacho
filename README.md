@@ -24,66 +24,39 @@ I'm a fullstack software developer. I consider myself as a highly motivated deve
 <div align="center">
 
   <p align="center" style="background:blue">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-HTML-40444D?style=flat&logo=HTML5" alt="HTML"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-CSS-40444D?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-JavaScript-40444D?style=flat&logo=javascript" alt="JavaScript"/>
-    </a>
-    <a href="https://www.python.org/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-Python-40444D?style=flat&logo=python" alt="Python"/>
-    </a>
-    <a href="https://dev.mysql.com/doc/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-MySQL-40444D?style=flat&logo=mysql" alt="MySQL"/>
-    </a>
-    <a href="https://jestjs.io/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-Jest-40444D?style=flat&logo=jest" alt="Jest"/>
-    </a>
-    <a href="https://docs.pytest.org/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-Pytest-40444D?style=flat&logo=pytest" alt="Pytest"/>
-    </a>
-    <a href="https://docs.cypress.io/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-Cypress-40444D?style=flat&logo=cypress" alt="Cypress"/>
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-Bootstrap-40444D?style=flat&logo=bootstrap" alt="Bootstrap"/>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-TypeScript-40444D?style=flat&logo=typescript" alt="TypeScript"/>
     </a>
     <a href="https://vuejs.org/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Vue.JS-40444D?style=flat&logo=vue.js" alt="Vue.JS"/>
     </a>    
+    <a href="https://nuxt.com/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-Nuxt.JS-40444D?style=flat&logo=nuxt.js" alt="Nuxt.JS"/>
+    </a>    
+    <a href="https://www.python.org/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-Python-40444D?style=flat&logo=python" alt="Python"/>
+    </a>
+    <a href="https://docs.pytest.org/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-Pytest-40444D?style=flat&logo=pytest" alt="Pytest"/>
+    </a>
     <a href="https://www.djangoproject.com/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Django-40444D?style=flat&logo=django" alt="Django"/>
+    </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-FastAPI-40444D?style=flat&logo=fastapi" alt="FastAPI"/>
     </a>
     <a href="https://reactnative.dev/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-React%20Native-40444D?style=flat&logo=react" alt="React Native"/>
     </a>
-    <a href="https://webpack.js.org/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-Webpack-40444D?style=flat&logo=webpack" alt="Webpack"/>
-    </a>
     <a href="https://www.docker.com/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Docker-40444D?style=flat&logo=docker" alt="Docker"/>
     </a>  
-    <a href="https://docs.celeryproject.org/en/stable/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-Celery-40444D?style=flat&logo=celery" alt="Celery"/>
+    <a href="https://www.docker.com/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-Docker-40444D?style=flat&logo=docker" alt="Kubernetes"/>
     </a>  
-    <a href="https://www.rabbitmq.com/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-RabbitMQ-40444D?style=flat&logo=rabbitmq" alt="RabbitMQ"/>
+    <a href="https://kubernetes.io/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-Kubernetes-40444D?style=flat&logo=kubernetes" alt="Kubernetes"/>
     </a>  
-    <a href="https://redis.io/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-Redis-40444D?style=flat&logo=redis" alt="Redis"/>
-    </a>  
-    <a href="https://git-scm.com/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-Git-40444D?style=flat&logo=git" alt="Git"/>
-    </a>  
-    <a href="https://github.com/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-GitHub-40444D?style=flat&logo=github" alt="GitHub"/>
-    </a>  
-    <a href="https://code.visualstudio.com/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-VS%20Code-40444D?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Stdio Code"/>
-    </a>
   </p>
 
 </div>
