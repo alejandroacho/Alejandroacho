@@ -9,7 +9,7 @@ I'm a fullstack software developer. I consider myself as a highly motivated deve
 - 🌱 &nbsp;I’m currently learning <a href="https://kubernetes.io/">Kubernetes</a>.
 
 
-- 📝 &nbsp;If you want to checkout my resume, you can go to my <a href="https://www.linkedin.com/in/alejandro-acho/">LinkedIn</a>.
+- 📝 &nbsp;If you want to checkout my resume, you can go to my <a href="https://www.linkedin.com/in/alejandroacho/">LinkedIn</a>.
 
 
 - 📫 &nbsp;You can reach me at <a href="http://alejandroacho.com"> my portfolio </a> or <a href="mailto:contact@alejandroacho.com">writing me</a>.
