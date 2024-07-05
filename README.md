@@ -90,6 +90,6 @@ I'm a fullstack software developer. I consider myself as a highly motivated deve
   <a href="https://linkedin.com/in/alejandroacho" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
-  <a href="https://twitter.com/alejoacho" target="_blank">
+  <a href="https://twitter.com/_alejandroacho" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>
 </p>
