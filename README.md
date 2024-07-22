@@ -19,7 +19,7 @@ I'm a fullstack software developer. I consider myself as a highly motivated deve
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+##
 <br>
 <div align="center">
 
@@ -51,38 +51,30 @@ I'm a fullstack software developer. I consider myself as a highly motivated deve
     <a href="https://www.docker.com/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Docker-40444D?style=flat&logo=docker" alt="Docker"/>
     </a>  
-    <a href="https://www.docker.com/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-Docker-40444D?style=flat&logo=docker" alt="Kubernetes"/>
-    </a>  
     <a href="https://kubernetes.io/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Kubernetes-40444D?style=flat&logo=kubernetes" alt="Kubernetes"/>
     </a>  
   </p>
 
 </div>
-<br>
 
-## ⚙️ &nbsp;GitHub Analytics
+##
 <br>
 
 <p align="center">
   <img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alejandroacho&show_icons=true&theme=nightowl" alt="Alejandro Acho's stats"/>
 </p>
-<!--
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alejandroacho)](https://github.com/Alejandroacho/)
-!-->
 <p align="center"> 
   <img src=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alejandroacho&theme=nightowl&langs_count=7&hide=html,php,css,blade alt="Alejandro Acho's stats"/>
- </p>
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Alejandroacho&color=blueviolet" alt="Profile views" /> </p>
 
 
 ##
 
 <p align="center" style="background:blue">
-  </a>
-    <a href="http://alejandroacho.com" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-Web%20Page-05122A?style=flat&logo=googlechrome" alt="web page"/>
+  <a href="https://alejandroacho.com" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-Web%20Page-05122A?style=flat&logo=googlechrome" alt="portfolio"/>
   </a>
   <a href="https://www.instagram.com/alejandroacho/" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
