@@ -74,7 +74,7 @@ I'm a fullstack software developer. I consider myself as a highly motivated deve
 
 <p align="center" style="background:blue">
   <a href="https://alejandroacho.com" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-Web%20Page-05122A?style=flat&logo=googlechrome" alt="portfolio"/>
+   <img align="center" src="https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=googlechrome" alt="portfolio"/>
   </a>
   <a href="https://www.instagram.com/alejandroacho/" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
