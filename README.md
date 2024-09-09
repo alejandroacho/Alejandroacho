@@ -3,7 +3,7 @@
 
 I'm a fullstack software developer. I consider myself as a highly motivated developer and I love to write good code and making a good design for it. One of my passions is, without a doubt, developing software, because it is a perfect tool to help others and build new ideas.
 
-- 🔭 &nbsp;I’m currently working on Ping My Link, you can check it out <a href="http://pingmy.link"> here!</a>
+- 🔭 &nbsp;I’m currently working on Genima, you can check it out <a href="https://genima.art"> here!</a>
 
 
 - 🌱 &nbsp;I’m currently learning <a href="https://kubernetes.io/">Kubernetes</a>.
