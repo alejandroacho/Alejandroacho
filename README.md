@@ -23,21 +23,27 @@ I'm a fullstack software developer. I consider myself as a highly motivated deve
 <br>
 <div align="center">
 
-  <p align="center" style="background:blue">
+  <div align="center" style="background:blue">
     <a href="https://www.typescriptlang.org/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-TypeScript-40444D?style=flat&logo=typescript" alt="TypeScript"/>
     </a>
+    <a href="https://react.dev/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-React-40444D?style=flat&logo=React" alt="React"/>
+    </a>    
+    <a href="https://nextjs.org/docs" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-Next%20JS-40444D?style=flat&logo=next.js" alt="Next JS"/>
+    </a>   
     <a href="https://vuejs.org/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-Vue.JS-40444D?style=flat&logo=vue.js" alt="Vue.JS"/>
+      <img align="center" src="https://img.shields.io/badge/-Vue%20JS-40444D?style=flat&logo=vue.js" alt="Vue JS"/>
     </a>    
     <a href="https://nuxt.com/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-Nuxt.JS-40444D?style=flat&logo=nuxt.js" alt="Nuxt.JS"/>
+      <img align="center" src="https://img.shields.io/badge/-Nuxt%20JS-40444D?style=flat&logo=nuxt.js" alt="Nuxt JS"/>
     </a>    
+    <a href="https://reactnative.dev/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-React%20Native-40444D?style=flat&logo=react" alt="React Native"/>
+    </a>
     <a href="https://www.python.org/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Python-40444D?style=flat&logo=python" alt="Python"/>
-    </a>
-    <a href="https://docs.pytest.org/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-Pytest-40444D?style=flat&logo=pytest" alt="Pytest"/>
     </a>
     <a href="https://www.djangoproject.com/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Django-40444D?style=flat&logo=django" alt="Django"/>
@@ -45,8 +51,8 @@ I'm a fullstack software developer. I consider myself as a highly motivated deve
     <a href="https://fastapi.tiangolo.com/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-FastAPI-40444D?style=flat&logo=fastapi" alt="FastAPI"/>
     </a>
-    <a href="https://reactnative.dev/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-React%20Native-40444D?style=flat&logo=react" alt="React Native"/>
+    <a href="https://docs.pytest.org/" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-Pytest-40444D?style=flat&logo=pytest" alt="Pytest"/>
     </a>
     <a href="https://www.docker.com/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Docker-40444D?style=flat&logo=docker" alt="Docker"/>
@@ -54,7 +60,7 @@ I'm a fullstack software developer. I consider myself as a highly motivated deve
     <a href="https://kubernetes.io/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Kubernetes-40444D?style=flat&logo=kubernetes" alt="Kubernetes"/>
     </a>  
-  </p>
+  </div>
 
 </div>
 
