@@ -3,16 +3,16 @@
 
 I'm a fullstack software developer. I consider myself as a highly motivated developer and I love to write good code and making a good design for it. One of my passions is, without a doubt, developing software, because it is a perfect tool to help others and build new ideas.
 
-- 🔭 &nbsp;I’m currently working on Genima, you can check it out <a href="https://genima.art"> here!</a>
+<!-- - 🔭 &nbsp;I’m currently working on Genima, you can check it out <a href="https://genima.art"> here!</a> />-->
 
 
-- 🌱 &nbsp;I’m currently learning <a href="https://kubernetes.io/">Kubernetes</a>.
+- 🌱 &nbsp;I’m currently learning about AI Agents and automatizations</a>.
 
 
 - 📝 &nbsp;If you want to checkout my resume, you can go to my <a href="https://www.linkedin.com/in/alejandroacho/">LinkedIn</a>.
 
 
-- 📫 &nbsp;You can reach me at <a href="http://alejandroacho.com"> my portfolio </a> or <a href="mailto:contact@alejandroacho.com">writing me</a>.
+- 📫 &nbsp;You can reach me at <a href="http://alejandroacho.com"> my portfolio </a> or <a href="mailto:contact@alejandroacho.com">writing me an email</a>.
 
 
 - 💬 &nbsp;Ask me about everything you want!
@@ -68,7 +68,7 @@ I'm a fullstack software developer. I consider myself as a highly motivated deve
 <br>
 
 <p align="center">
-  <img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alejandroacho&show_icons=true&theme=nightowl" alt="Alejandro Acho's stats"/>
+  <img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alejandroacho&hide=html,php,css,blade" alt="Alejandro Acho's stats"/>
 </p>
 <!--  <p align="center"> 
   <img src=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alejandroacho&theme=nightowl&langs_count=7&hide=html,php,css,blade alt="Alejandro Acho's stats"/>
@@ -77,7 +77,7 @@ I'm a fullstack software developer. I consider myself as a highly motivated deve
 
 
 ##
-
+<!-- 
 <p align="center" style="background:blue">
   <a href="https://alejandroacho.com" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=googlechrome" alt="portfolio"/>
@@ -91,3 +91,4 @@ I'm a fullstack software developer. I consider myself as a highly motivated deve
   <a href="https://twitter.com/_alejandroacho" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=x" alt="twitter"/>
 </p>
+/>-->
